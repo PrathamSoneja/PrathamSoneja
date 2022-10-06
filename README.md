@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pratham Soneja======================================================================================================================================Data Scientist | Content Writer-------------------------------I am an experienced Data Scientist with a demonstrated history and working knowledge of solving real-life problems using relevant skills including but not limited to Data Analysis, Supervised, Unsupervised, and Reinforcement(Multi-Armed Bandit) Learning Algorithms, Error Analysis, Statistical Analysis, NLP, Data Visualization and others. I also document tutorials of my recent projects for beginners in the Machine Learning and Data Science community.* 🌍  I'm based in Jaipur, Rajasthan, India* 🖥️  See my portfolio at [prathamsoneja.com](http://myportfoliops.herokuapp.com/)* ✉️  You can contact me at [pratham.soneja.pcm@gmail.com](mailto:pratham.soneja.pcm@gmail.com)
+Hi !
+
+My name is Pratham Soneja
+
+Data Scientist | Content Writer
+
+I am an experienced Data Scientist with a demonstrated history and working knowledge of solving real-life problems using relevant skills including but not limited to Data Analysis, Supervised, Unsupervised, and Reinforcement(Multi-Armed Bandit) Learning Algorithms, Error Analysis, Statistical Analysis, NLP, Data Visualization and others. I also document tutorials of my recent projects for beginners in the Machine Learning and Data Science community.* 🌍  I'm based in Jaipur, Rajasthan, India* 🖥️  See my portfolio at [prathamsoneja.com](http://myportfoliops.herokuapp.com/)* ✉️  You can contact me at [pratham.soneja.pcm@gmail.com](mailto:pratham.soneja.pcm@gmail.com)
 
 ### Skills
 
