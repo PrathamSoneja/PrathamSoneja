@@ -8,7 +8,7 @@ I am an experienced Data Scientist with a demonstrated history and working knowl
 
 * 🌍  I'm based in Jaipur, Rajasthan, India
 
-* 🖥️  See my portfolio at [prathamsoneja.com](https://myportfoliops.herokuapp.com/)
+* 🖥️  See my portfolio at [prathamsoneja.com](https://ro5x40.deta.dev/)
 
 * ✉️  You can contact me at [pratham.soneja.pcm@gmail.com](mailto:pratham.soneja.pcm@gmail.com)
 
